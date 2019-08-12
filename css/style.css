@@ -273,7 +273,7 @@ section {
     margin-bottom: 25px
 }
 .home-background {
-    background: url(../images/background.jpg) center center no-repeat;
+    background: url(../images/img.png) center center no-repeat;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -ms-background-size: cover;
@@ -283,7 +283,7 @@ section {
 }
 .home-layer {
     position: absolute;
-    background: rgba(255, 255, 255, .8);
+    background: rgba(0, 0 , 0,.70);
     width: 100%
 }
 .home-content {
